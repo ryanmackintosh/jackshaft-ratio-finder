@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <math.h>
 
+// Test comment
+
 // TODO
 // user input ratios and sprocket sizes, ratio upper & lower bounds
 // search top half of array only
