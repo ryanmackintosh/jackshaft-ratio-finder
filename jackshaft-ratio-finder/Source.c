@@ -3,6 +3,7 @@
 #include <math.h>
 
 // Test comment
+// Test comment 2
 
 // TODO
 // user input ratios and sprocket sizes, ratio upper & lower bounds
